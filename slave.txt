@@ -1,1 +1,32 @@
+<<<<<<< HEAD
+<<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
+=======
+>>>>>>> ?????
+=======
+<<<<<<< HEAD
+>>>>>>> uuuuuu
+yolo
+<<<<<<< HEAD
+baby text
+32243423324234234after babytag 
+=======
+baby text 
+>>>>>>> ad1db2b... baby
+<<<<<<< HEAD
+<<<<<<< refs/remotes/origin/master
+=======
 yolo 
+<<<<<<< HEAD
+=======
+not baby
+>>>>>>> wot
+=======
+>>>>>>> ?????
+=======
+=======
+yolo 
+not baby
+>>>>>>> branchtest
+>>>>>>> uuuuuu
+>>>>>>> uuuuuu
