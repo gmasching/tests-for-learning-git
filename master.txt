@@ -5,3 +5,5 @@ bar
 baz
 =======
 >>>>>>> parent of 411cd7d... huh
+
+WHAT THE HELL IS HAPENING
