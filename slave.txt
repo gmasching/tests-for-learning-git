@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
 =======
 >>>>>>> ?????
+=======
+<<<<<<< HEAD
+>>>>>>> uuuuuu
 yolo
 <<<<<<< HEAD
 baby text
@@ -9,6 +13,7 @@ baby text
 =======
 baby text 
 >>>>>>> ad1db2b... baby
+<<<<<<< HEAD
 <<<<<<< refs/remotes/origin/master
 =======
 yolo 
@@ -16,3 +21,9 @@ not baby
 >>>>>>> wot
 =======
 >>>>>>> ?????
+=======
+=======
+yolo 
+not baby
+>>>>>>> branchtest
+>>>>>>> uuuuuu
