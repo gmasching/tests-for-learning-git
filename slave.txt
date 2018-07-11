@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 yolo
 <<<<<<< HEAD
 baby text
@@ -5,3 +6,7 @@ after babytag
 =======
 baby text 
 >>>>>>> ad1db2b... baby
+=======
+yolo 
+not baby
+>>>>>>> branchtest
