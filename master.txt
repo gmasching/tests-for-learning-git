@@ -1,1 +1,7 @@
 master text 
+fooo 
+<<<<<<< HEAD
+bar
+baz
+=======
+>>>>>>> parent of 411cd7d... huh
