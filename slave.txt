@@ -1,4 +1,7 @@
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
+=======
+>>>>>>> ?????
 yolo
 <<<<<<< HEAD
 baby text
@@ -6,7 +9,10 @@ after babytag
 =======
 baby text 
 >>>>>>> ad1db2b... baby
+<<<<<<< refs/remotes/origin/master
 =======
 yolo 
 not baby
 >>>>>>> wot
+=======
+>>>>>>> ?????
