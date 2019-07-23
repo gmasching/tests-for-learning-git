@@ -1,2 +1,2 @@
-stuff
-Originally named "stuff" on github, but changed to "tests-for-learning-git"
+# Learning Git
+This repository exists for the sole purpose of testing out functionality of Git and github. 
